@@ -4,3 +4,5 @@ function seguirMouse(event) {
     circulo.style.left = event.x + "px";
 }
 window.addEventListener('mousemove', seguirMouse);
+
+/*codigo otimizado, versão final*/
